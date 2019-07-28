@@ -1,0 +1,38 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" group-title="DESPORTO",Eleven Sports 1 HD
+http://145.239.244.14:8000/velasoft/hdzdewo33i/12153
+
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" group-title="DESPORTO",Eleven Sports 1
+http://145.239.244.14:8000/velasoft/hdzdewo33i/14704
+
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" group-title="DESPORTO",Eleven Sports 2 HD
+http://145.239.244.14:8000/velasoft/hdzdewo33i/12152
+
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" group-title="DESPORTO",Eleven Sports 2
+http://145.239.244.14:8000/velasoft/hdzdewo33i/14705
+
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png" group-title="DESPORTO",Eleven Sports 3 HD
+http://145.239.244.14:8000/velasoft/hdzdewo33i/12151
+
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png" group-title="DESPORTO",Eleven Sports 3
+http://145.239.244.14:8000/velasoft/hdzdewo33i/14706
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven Sports 4 HD
+http://145.239.244.14:8000/velasoft/hdzdewo33i/12150
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven Sports 4
+http://145.239.244.14:8000/velasoft/hdzdewo33i/14707
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven Sports 5 HD
+http://145.239.244.14:8000/velasoft/hdzdewo33i/12149
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven Sports 5
+http://145.239.244.14:8000/velasoft/hdzdewo33i/14708
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven Sports 6 HD
+http://145.239.244.14:8000/velasoft/hdzdewo33i/12148
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eleven Sports 6
+http://145.239.244.14:8000/velasoft/hdzdewo33i/14709
+
